@@ -1,0 +1,5 @@
+#surefire_0
+#Thu Jul 16 12:45:04 CST 2020
+user.dir=/root/project/consumer
+localRepository=/root/testjava/maven_repository
+basedir=/root/project/consumer
